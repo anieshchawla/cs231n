@@ -1,0 +1,6 @@
+*.zip
+*.swp
+*.pyc
+.env/*
+*.so
+*/.ipynb_*
